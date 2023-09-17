@@ -1,14 +1,4 @@
 streamlit
 Pillow
-numpy
-torch
-torchvision
-matplotlib
+Pytorch
 pytorch_lightning
-opencv-python-headless
-scipy
-h5py
-huggingface-hub==0.11.1
-timm==0.6.12
-tqdm==4.64.1
-wandb==0.13.9
