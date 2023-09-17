@@ -5,6 +5,7 @@ channels:
   - conda-forge
 dependencies:
   - cuda=11.7.1
+  - streamlit==1.22.0
   - h5py=3.7.0
   - hdf5=1.12.2
   - matplotlib=3.6.2
